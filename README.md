@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on hyperautomation
 - 📫 How to reach me: on the socials
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NivineZakhari)](https://github.com/NivineZakhari/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NivineZakhari)](https://github.com/NivineZakhari)
