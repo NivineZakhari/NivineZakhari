@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on accessible solutions for elder care and special needs
 - 📫 You can find me on the socials 🌐 [LinkedIn](https://www.linkedin.com/in/nivinekzakhari/), [Facebook](https://www.facebook.com/nivine.zakhari), [Discord](http://discordapp.com/users/582588342248538114), [Mastodon](https://universeodon.com/@NivineKZakhari), and [Reddit](https://www.reddit.com/user/NivineZakhari) or on the air 📻 as [K9ZAK](https://www.qrz.com/db/K9ZAK)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NivineZakhari)](https://github.com/NivineZakhari)
 <!---
 NivineZakhari/NivineZakhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[![trophy](https://github-profile-trophy.vercel.app/?username=NivineZakhari)](https://github.com/NivineZakhari)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NivineZakhari)](https://github.com/NivineZakhari)
 --->
